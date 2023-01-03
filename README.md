@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="[https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png](https://github.com/cumafrank/cumafrank/blob/main/header.png)" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/cumafrank/cumafrank/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
