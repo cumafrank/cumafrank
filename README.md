@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/cumafrank/cumafrank/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-
-
 <div align="center">
 <img src="https://github.com/cumafrank/cumafrank/blob/main/header.png" align="center" style="width: 100%" />
 </div>  
